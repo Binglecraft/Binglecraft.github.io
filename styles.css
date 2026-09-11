@@ -1,0 +1,32 @@
+html {
+    background-color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+.banner {
+    background-color: #f0e68c;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: left;
+}
+
+.banner-button {
+    border: none;
+    border-radius: 3px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 8px;
+    cursor: pointer;
+    background-color:crimson;
+}
+
+.banner-title {
+    font-size: 2em;
+    margin: 4px 8px;
+}
