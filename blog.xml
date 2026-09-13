@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>BingleCraft Blog</title>
+  <link>Binglecraft.github.io</link>
+  <description>Airplanes and Air Fryers</description>
+  <item>
+    <title>First Blog!</title>
+    <link>Binglecraft.github.io/blog/1</link>
+    <description>First blog post.</description>
+  </item>
+</channel>
+
+</rss>
